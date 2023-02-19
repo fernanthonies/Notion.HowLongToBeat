@@ -1,0 +1,12 @@
+{
+  "name": "howlongtobeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@notionhq/client": "^2.1.1",
+    "dotenv": "^16.0.3",
+    "howlongtobeat": "^1.7.0",
+    "lodash": "^4.17.21"
+  }
+}
